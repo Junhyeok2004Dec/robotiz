@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>motor</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>motor</name>
+			<type>2</type>
+			<location>C:/Users/user/Downloads/DynamixelSDK-3.7.31/java/dynamixel_functions_java/x64/motor</location>
+		</link>
+		<link>
+			<name>output</name>
+			<type>2</type>
+			<location>C:/Users/user/Downloads/DynamixelSDK-3.7.31/c/build/win64/output</location>
+		</link>
+	</linkedResources>
+</projectDescription>
